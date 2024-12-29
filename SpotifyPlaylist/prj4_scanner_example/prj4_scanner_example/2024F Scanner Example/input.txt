@@ -1,0 +1,25 @@
+Dancing Queen, 5, 3, 1, playlist1 
+I Gotta Feeling, 
+2, 
+2, 5, playlist2
+Firework, 1, 5, 3, playlist3
+Eye of the Tiger, 3, 2, 5, playlist1
+Shake it Off, 1, 4, 3, playlist2
+Livin' on a Prayer, 5, 5, 5, playlist3
+Dynamite, 1, 2, 1, playlist1
+Bye Bye Bye, 3, 1, 5, Nowhere
+Unwritten, 1, 2, 2,
+Viva La Vida, 3, 3, 1, playlist1
+Mr. Brightside, 2, 4, 1, playlist3
+Tongue Tied, 5, 5, 5, playlist3
+Paparazzi, 3, 2, 3, playlist1
+The Middle, 1, 5, 3, playlist2
+Party in the USA, 4, 2, 1, playlist3
+Single Ladies, 3, 3, 3,
+Just Dance, 1, 5, 3, playlist1
+Stick Season, 2, 4, 4, playlist3
+Worldwide, 5, 4, 1, playlist1
+Hey Soul Sister 3, 4, 5, playlist1
+Shallow, 1, 4, 4, playlist3
+Raise Your Glass, 5, 2, 3, playlist3
+Electric Love, 3, 3, 2, playlist3
